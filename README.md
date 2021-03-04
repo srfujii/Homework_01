@@ -19,7 +19,7 @@ To install this project on your local machine, simply visit this repo at (https:
 ## Usage
 This single-page website is quite easy to navigate. Simply click on the top navigation links to learn more about what you have clicked on.
 
-    [Website Screenshot](./assets/images/screenshot.png)
+[Website Screenshot](./assets/images/screenshot.png)
 
 ## Credits
 (https://techbootcamps.rice.edu/)
