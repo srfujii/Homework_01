@@ -21,6 +21,7 @@ body {
     color: #ffffff;
 }
 
+/*** h1 is 48px ***/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -31,7 +32,7 @@ body {
     color: #d9dcd6;
 }
 
-/*** Creates the Header Navigation Bar and sets padding and margin and right-aligns navigation links ***/
+/*** Creates Header Navigation Bar and sets padding and margin and right-aligns navigation links ***/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -54,7 +55,7 @@ body {
 /***********************************/
 
 
-
+/*** Element Default Styles ***/
 a {
     color: #ffffff;
     text-decoration: none;
