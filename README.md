@@ -12,7 +12,7 @@ The finished code accomplishes the client's objectives and will ensure HoriSEOn 
 
 
 ## Installation
-To view this project, simply visit (https://github.srfujii.io/Horiseon-SEO-Code-Refactor)
+To view this project, simply visit (https://srfujii.github.io/Horiseon-SEO-Code-Refactor)
  
 To install this project on your local machine, simply visit this repo at (https://github.com/srfujii/Horiseon-SEO-Code-Refactor) and use git to clone it to your local environment.
 
