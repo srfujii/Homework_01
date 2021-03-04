@@ -1,0 +1,152 @@
+/*** CSS for Horiseon Corporate Website ***/
+/*** Developer: Susan Fujii             ***/
+
+/*** Global declaration sets margins and padding to 0 ***/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*** Body element sets background color to gray ***/
+body {
+    background-color: #d9dcd6;
+}
+
+/*** Header class sets header and navigation default fonts and color and padding ***/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/*** Sets the "seo" in Horiseon to gray color ***/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/*** Creates the Header Navigation Bar and sets padding and margin and right-aligns navigation links ***/
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/*** Specifies no bullets or numbers for our nav bar list ***/
+.header nav ul {
+    list-style-type: none;
+}
+
+/*** Each navigation link list item ***/
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*** End Header-specific styling ***/
+/***********************************/
+
+
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*** Hero Banner Image Under Header ***/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*** Content Column #1: What We Do (SEO, Brand, Cost Management) ***/
+.whatwedo {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.whatwedo img {
+    max-height: 200px;
+}
+
+.whatwedo h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*** Content Column #2: Benefits (LeadGen, Brand Awareness, Cost Management) ***/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/*** Individual Benefits styling ***/
+.benefit-indv {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-indv h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-indv img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*** Footer ***/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
