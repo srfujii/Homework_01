@@ -2,7 +2,7 @@
 
 ## Description
 
-This purpose of this project is to **refactor Horiseon's corporate home page** to be more accessible and to improve the code to bring it up to current industry standards best known practices.
+This purpose of this project is to **refactor Horiseon's corporate home page** to be more accessible and to improve the code to bring it up to current industry standards and best known practices.
 
 **Accessibility** is an increasingly important consideration for businesses. Web accessibility ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is crucial for businesses to implement&mdash; not only do accessible sites rank higher in search engines like Google, but they also help companies avoid litigation which might arise if people with disabilities cannot access a website. Plus, it ensures that **all** users can access the company's products and services; thus broadening their customer base.
 
